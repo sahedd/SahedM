@@ -6,8 +6,8 @@ baseurl: /SahedM
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fefafb
-  secondary: 8e203c
+  primary: c82a40
+  secondary: fefafb
   secondary-dark: 961e2f
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
