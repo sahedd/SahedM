@@ -6,7 +6,7 @@ baseurl: /SahedM
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2196f3
+  primary: c82a40
   secondary: 1976d2
   secondary-dark: 004ba0
 
